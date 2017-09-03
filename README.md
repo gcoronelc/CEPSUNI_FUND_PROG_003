@@ -1,5 +1,5 @@
-﻿![FUNDAMENTOS DE PROGRAMACIÓN CON JAVA](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_FUND_PROG_003/master/FUNDPROG003.jpg)
-![FUNDAMENTOS DE PROGRAMACIÓN CON JAVA](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_FUND_PROG_003/master/PensandoEnServicios.png)
+﻿![FUNDAMENTOS DE PROGRAMACIÓN CON JAVA](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_FUND_PROG_003/master/img/FUNDPROG003.jpg)
+![FUNDAMENTOS DE PROGRAMACIÓN CON JAVA](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_FUND_PROG_003/master/img/PensandoEnServicios.png)
 
 
 # FUNDAMENTOS DE PROGRAMACIÓN CON JAVA
@@ -9,7 +9,7 @@
 - Lugar: CEPS-UNI
 - Ubicación: https://goo.gl/maps/wzp2JMxPUyz
 - Horario: Domingos de 12 a 16 Horas
-- Inicio: 02-JULIO-2017
+- Inicio: 03-SETIEMBRE-2017
 - Página: https://gcoronelc.github.io/CEPSUNI_FUND_PROG_003/
 - Código fuente: https://goo.gl/GRaOQg
 
