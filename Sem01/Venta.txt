@@ -1,0 +1,14 @@
+Desarrollar el analisis para desarrollar
+un programa que permita encontrar el 
+valor de una venta.
+
+CONDICIONES
+==========================================
+1.- La venta es de un tipo de producto,
+    por ejemplo, una televisor. Pero 
+	puede ser uno o varios televisores.
+2.- El precio de venta incluye el impuesto.
+3.- Si el cliente esta comprando mas de 6
+    unidades, tiene un descuento de 5% en 
+	el precio de venta.
+	
