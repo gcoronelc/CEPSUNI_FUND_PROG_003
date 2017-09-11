@@ -1,0 +1,8 @@
+- Divide y venceras
+- Principio DRY
+- Cual es la diferencia entre las propiedades
+  editable y enabled de un JTextField.
+- Tipos primitivos
+- Tipos envolventes
+
+
