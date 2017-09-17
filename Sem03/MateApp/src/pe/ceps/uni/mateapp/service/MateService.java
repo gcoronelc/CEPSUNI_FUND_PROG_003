@@ -35,4 +35,13 @@ public class MateService {
     // Retorno
     return mcd;
   }
+   
+   public static int calcMcm(int n1, int n2, int n3){
+     // variable
+     int mcm;
+     // Proceso
+     mcm = calcMcm( calcMcm(n1, n2), n3 );
+     // Retorno
+     return mcm;
+   }
 }
