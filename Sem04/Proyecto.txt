@@ -1,0 +1,16 @@
+PROYECTO
+=================================
+Desarrollar un programa en Java
+que permita generar un arreglo
+de tamaño "n" de números enteros
+menores que 50 y mayor que 20.
+
+Del arreglo generado debe permitir
+mostrar los siguientes datos
+estadisticos:
+
+- El numero mayor.
+- El número menor.
+- La mediana.
+- La media.
+- La moda.
